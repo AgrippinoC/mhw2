@@ -1,0 +1,68 @@
+/*:root {
+}*/
+
+.choice-grid {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;	
+}
+
+section div {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 32.5%;
+  border: 1px solid #dcdcdc;
+  background-color: #f4f4f4;
+  padding: 10px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
+
+
+body{
+	background-image: url(https://img.freepik.com/premium-photo/old-parchment-paper-texture-background-vintage-wallpaper_118047-11694.jpg);
+	background-size: cover;
+}
+
+.style {
+  background-color: #cfe3ff;
+}
+
+#risposta{
+	
+	margin: 20px 0px;
+	padding: 20px;
+	border: 2px groove black;
+}
+#risposta h1, #risposta p{
+	margin-bottom: 18px;
+	margin-top: 0px;
+}
+button{
+	width: 100%;
+	background-color: #cecece;
+	height: 50px;
+}
+button:hover{
+background-color: #e0e0e0;
+}
+
+.hidden{
+	display: none;
+}
+
+@media (max-width: 700px) {
+article {
+width: 95%;
+}
+header div span {
+  display: none;
+}
+}
+@media (max-width: 500px) {
+section div {
+  width: 49%;
+}
+}
