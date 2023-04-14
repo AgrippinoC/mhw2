@@ -9,7 +9,7 @@ contents: "Siete dei nuovi cacciatori/cacciatrici e dovete ancora imparare le me
 },
 'sleeping': {
 title: 'Weeb',
-contents: "Siete appassionati di miti e tradizioni, specie quelli orientali. Prediligete armature vicineallo stile giapponese, spesso ignorando le abilità di suddette. Adorate i nuovi setting e conoscete a memoria ogni singolo mostro, a discapito della vostra popolarità.",
+contents: "Siete appassionati di miti e tradizioni, specie quelli orientali. Prediligete armature vicine allo stile giapponese, spesso ignorando le abilità di suddette. Adorate i nuovi setting e conoscete a memoria ogni singolo mostro, a discapito della vostra popolarità.",
 },
 'dopey': {
 title: 'Pomposo',
@@ -17,7 +17,7 @@ contents: "Siete orgogliosi di voi stessi e non vi vergognate a mostrare la vost
 },
 'burger': {
 title: 'Semplicista',
-contents: "Ti piacciono le cose semplici della vita come guardare un panorama, degustare bei piatti o   spaccare il cranio ad ogni creatura che incontrate. Spesso capita con la vostra irruenza di far volare via il tuo team, ma la soddisfazione di rompere TUTTE le parti di un mostro ne vale la pena (per voi).",
+contents: "Ti piacciono le cose semplici della vita come guardare un panorama, degustare bei piatti o spaccare il cranio ad ogni creatura che incontrate. Spesso capita con la vostra irruenza di far volare via il tuo team, ma la soddisfazione di rompere TUTTE le parti di un mostro ne vale la pena (per voi).",
 },
 'cart': {
 title: 'Collaboratore',
@@ -29,7 +29,7 @@ contents: "Se non esplode qualcosa non sei felice. Che sia una bomba, un mostro,
 },
 'shy': {
 title: 'Alternativo',
-contents: "Avete una grande tecnica e maneggevolezza col gioco, ma preferite non seguire i binari prefissati. Mandate sempre altri in avanscoperta, mentre voi siete maggiormente impegnati a svagarsi o fare attività extra. Siete un pò la mascotte del gruppo che però difficilmente ti abbandona.",
+contents: "Avete una grande tecnica e maneggevolezza col gioco, ma preferite non seguire i binari prefissati. Mandate sempre altri in avanscoperta, mentre voi siete maggiormente impegnati a svagarvi o fare attività extra. Siete un pò la mascotte del gruppo il quale però difficilmente ti abbandona.",
 },
 'sleepy': {
 title: 'Speedrunner',
